@@ -1,8 +1,5 @@
 Hi I am Aman
 I am Manu.
 I am the best.
-<<<<<<< Updated upstream
 hsgbsfjs
-=======
 Goood morninggggggggggggggggggggggg
->>>>>>> Stashed changes
